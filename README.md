@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p># Welcome to my GitHub Profile! 👋
+<p>Welcome to my GitHub Profile! 👋
 
 Hi there! I'm a Software Engineer and Technical Writer specializing in cross-platform mobile app development. I primarily work with Flutter and Dart, crafting beautiful and functional mobile experiences.  I also enjoy sharing my knowledge and insights through technical writing.
 </p>
