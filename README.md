@@ -4,9 +4,9 @@ A passionate software engineer & technical writer specializing in mobile app dev
 
 ## Skills
 
-* **Languages:** Flutter, Dart, Bloc, Riverpod, Firebase
-* **Frameworks:** React, Angular, Flutter, Node.js
-* **Tools:** Git
+* **Languages:** Dart programming language
+* **Frameworks:** Flutter
+* **Tools:** Bloc, Riverpod, Git, Firebase
 
 ## Projects
 
@@ -15,7 +15,7 @@ A passionate software engineer & technical writer specializing in mobile app dev
 
 ## Connect with me
 
-* [LinkedIn](your-linkedin-profile)
+* [LinkedIn]https://www.linkedin.com/in/steveabdulmexa/
 * [Twitter](your-twitter-profile)
 * [Email](your-email@example.com)
 
