@@ -1,6 +1,6 @@
 # Hi there! I'm Steve Abdulmex 👋
 
-A passionate software engineer & technical writer specializing in mobile app development using the Flutter framework and Dart programming language. I love building innovative apps and exploring new technologies.
+A passionate software engineer & technical writer specializing in mobile app development using the Flutter framework and Dart programming language. I love building innovative apps and constantly learning new concepts.
 
 ## Skills
 
@@ -19,4 +19,4 @@ A passionate software engineer & technical writer specializing in mobile app dev
 * [Twitter](https://x.com/BigSteveAbdulmx)
 * [Email](steveabdulmexa@gmail.com)
 
-## Let's build something amazing!
+## Let's build amazing mobile apps!
