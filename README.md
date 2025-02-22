@@ -1,20 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Steve Abdulmex 👋
 
-<p>Welcome to my GitHub Profile! 👋
+A passionate software engineer & technical writer specializing in mobile app development using the Flutter framework and Dart programming language. I love building innovative apps and exploring new technologies.
 
-Hi there! I'm a Software Engineer and Technical Writer specializing in cross-platform mobile app development. I primarily work with Flutter and Dart, crafting beautiful and functional mobile experiences.  I also enjoy sharing my knowledge and insights through technical writing.
-</p>
-<!--
-**BigSteveAbdulmex/BigSteveAbdulmex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+* **Languages:** Flutter, Dart, Bloc, Riverpod, Firebase
+* **Frameworks:** React, Angular, Flutter, Node.js
+* **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+* **Project Name:** [Brief Description] - [Technologies Used] - [Link to Repository] - [Link to Demo]
+* **Project Name:** [Brief Description] - [Technologies Used] - [Link to Repository]
+
+## Connect with me
+
+* [LinkedIn](your-linkedin-profile)
+* [Twitter](your-twitter-profile)
+* [Email](your-email@example.com)
+
+## Let's build something amazing!
