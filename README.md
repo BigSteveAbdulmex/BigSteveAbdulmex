@@ -21,4 +21,4 @@ A passionate software engineer & technical writer specializing in mobile app dev
 * [Twitter](https://x.com/BigSteveAbdulmx)
 * [Email](steveabdulmexa@gmail.com)
 
-## Let's build innovative apps together!
+## Let's build something amazing
