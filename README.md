@@ -4,7 +4,7 @@ A passionate software engineer & technical writer specializing in mobile app dev
 
 ## Skills
 
-* **Languages:** Dart
+* **Languages:** Dart, JavaScript
 * **Frameworks:** Flutter
 * **State Management:** BLoC, Riverpod, GetX, Provider
 * **Tools:** Git, Firebase, RESTful APIs
