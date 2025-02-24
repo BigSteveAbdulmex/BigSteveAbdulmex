@@ -2,7 +2,7 @@
 
 A passionate software engineer & technical writer specializing in mobile app development using the Flutter framework and Dart programming language. I love building innovative apps and constantly learning new concepts.
 
-## 🛠️ Skills
+## Skills
 
 * **Languages:** Dart
 * **Frameworks:** Flutter
@@ -21,4 +21,5 @@ A passionate software engineer & technical writer specializing in mobile app dev
 * [Twitter](https://x.com/BigSteveAbdulmx)
 * [Email](steveabdulmexa@gmail.com)
 
-### Let's build something amazing
+## Let's build something amazing
+Interested in collaborating or hiring a Flutter developer? I’m always up for a challenge—let’s create something impactful.
