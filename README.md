@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Steve Abdulmex 👋</h1>
-<p align="center"><em>Passionate Software Engineer | Mobile App Developer | Technical Writer</em><br></p>
+<h1>Hi there! I'm Steve Abdulmex 👋</h1>
+<p><em>Passionate Software Engineer | Mobile App Developer | Technical Writer</em><br></p>
 
 
 ## About Me
