@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Steve Abdulmex 👋</h1>
 <p align="center"><em>Passionate Software Engineer | Mobile App Developer | Technical Writer</em><br></p>
----
+
 
 I’m a mobile app enthusiast who thrives on crafting innovative, user-friendly applications with **Flutter** and **Dart**. With a knack for technical writing, I enjoy breaking down complex ideas into simple, actionable insights. My goal? To build apps that solve real problems while constantly pushing my skills to the next level.
 
