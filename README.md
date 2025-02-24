@@ -9,6 +9,7 @@ I’m a mobile app enthusiast who thrives on crafting innovative, user-friendly 
 * **State Management:** BLoC, Riverpod, GetX, Provider
 * **Tools:** Git, Firebase, RESTful APIs
 * **Testing:** Unit Testing, Widget Testing
+* **Soft Skills**: Deugging, Problem-Solving, Collaboration, Communication, Technical Documentation
 
 ## Projects
 
