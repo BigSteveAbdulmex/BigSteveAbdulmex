@@ -17,7 +17,7 @@ A passionate software engineer & technical writer specializing in mobile app dev
 
 ## Connect with me
 
-- **[LinkedIn](https://www.linkedin.com/in/steveabdulmexa/)** - Let’s network!  
+- **[LinkedIn](https://www.linkedin.com/in/steveabdulmexa/)** - Let’s connect!  
 - **[Twitter](https://x.com/BigSteveAbdulmx)** - Thoughts on tech and Flutter.  
 - **[Email](mailto:steveabdulmexa@gmail.com)** - Drop me a line! 
 
