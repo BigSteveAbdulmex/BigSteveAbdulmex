@@ -17,7 +17,7 @@ A passionate software engineer & technical writer specializing in mobile app dev
 
 ## Connect with me
 
-* [LinkedIn](https://www.linkedin.com/in/steveabdulmexa/)
+- **[LinkedIn](https://www.linkedin.com/in/steveabdulmexa/)** - Let’s network!  
 * [Twitter](https://x.com/BigSteveAbdulmx)
 * [Email](steveabdulmexa@gmail.com)
 
