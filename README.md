@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Steve Abdulmex 👋</h1>
-<p><em>Passionate Software Engineer | Mobile App Developer | Technical Writer</em><br></p>
+<p><em>Fullstack Software Engineer | Flutter & Golang | I build smart apps & simplify mobile development</em><br></p>
 
 
 ## About Me
