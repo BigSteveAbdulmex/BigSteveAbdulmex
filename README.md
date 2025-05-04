@@ -5,14 +5,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a fullstack software engineer focused on building powerful, production-ready **mobile apps** using **Flutter** and **Golang**. My work is all about merging premium UI with scalable backend systems—delivering real products, not just pretty screens.
+I'm a fullstack software engineer focused on building powerful, production-ready **mobile apps** using **Flutter** and **Golang**. My work is all about merging premium UI with scalable backend systems, delivering real products, not just pretty screens.
 
-I don’t build for hype. I build for results. Whether it's creating accountability tools like **Nudgr**, writing dev-focused articles, or refining my backend architecture skills with Go—I'm always moving with intent.
+I don’t build for hype. I build for results. Whether it's writing dev-focused articles, or refining my backend architecture skills with Go. I'm always moving with intent.
 
 I believe in:
 - Code that’s clean, scalable, and made to last.
 - Mobile-first thinking, always.
-- Documenting the journey—because someone else needs the roadmap.
+- Documenting the journey because someone else needs the roadmap.
 
 ---
 
@@ -63,7 +63,7 @@ I believe in:
 
 ## 🚀 Let's Build Something Real
 
-If you're looking for someone who codes with intention and ships with clarity—I'm your guy.  
+If you're looking for someone who codes with intention and ships with clarity, I'm your guy.  
 I specialize in building mobile apps that are fast, functional, and impossible to ignore.
 
 **No fluff. Just clean apps that do what they say.**
