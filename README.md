@@ -1,29 +1,69 @@
-<h1>Hi there! I'm Steve Abdulmex 👋</h1>
-<p><em>Fullstack Software Engineer | Flutter & Golang | I build smart apps & simplify mobile development</em><br></p>
+<h1>Hey, I’m Steve Abdulmex 👋</h1>
+<p><em>Fullstack Software Engineer · Flutter & Golang · Building mobile apps that actually solve problems</em></p>
 
+---
 
-## About Me
-I’m a mobile app enthusiast who thrives on crafting innovative, user-friendly applications with **Flutter** and **Dart**. With a knack for technical writing, I enjoy breaking down complex ideas into simple, actionable insights. My goal? To build apps that solve real problems while constantly pushing my skills to the next level.
+## 👨‍💻 About Me
 
-## Skills
+I'm a fullstack software engineer focused on building powerful, production-ready **mobile apps** using **Flutter** and **Golang**. My work is all about merging premium UI with scalable backend systems—delivering real products, not just pretty screens.
 
-* **Languages:** Dart, JavaScript
-* **Frameworks:** Flutter
-* **State Management:** BLoC, Riverpod, GetX, Provider
-* **Tools:** Git, Firebase, RESTful APIs
-* **Testing:** Unit Testing, Widget Testing
-* **Soft Skills**: Deugging, Problem-Solving, Collaboration, Communication, Technical Documentation
+I don’t build for hype. I build for results. Whether it's creating accountability tools like **Nudgr**, writing dev-focused articles, or refining my backend architecture skills with Go—I'm always moving with intent.
 
-## Projects
+I believe in:
+- Code that’s clean, scalable, and made to last.
+- Mobile-first thinking, always.
+- Documenting the journey—because someone else needs the roadmap.
 
-* **Project Name:** [Brief Description] - [Technologies Used] - [Link to Repository] - [Link to Demo]
-* **Project Name:** [Brief Description] - [Technologies Used] - [Link to Repository]
+---
 
-## Connect with me
+## 🧠 Tech Stack & Skills
 
-- **[LinkedIn](https://www.linkedin.com/in/steveabdulmexa/)** - Let’s connect!  
-- **[Twitter](https://x.com/BigSteveAbdulmx)** - Thoughts on tech and Flutter.  
-- **[Email](mailto:steveabdulmexa@gmail.com)** - Drop me a line! 
+**Core Languages:**  
+- Dart (Flutter)  
+- Golang (Backend Services)
 
-## Let's build something amazing!
-Interested in collaborating or hiring a Flutter developer? I’m always up for a challenge—let’s create something impactful.
+**Frontend (Mobile):**  
+- Flutter (Material & Cupertino)  
+- Custom Widgets, Animations, Responsive Layouts
+
+**Backend:**  
+- Go (REST APIs, Clean Architecture, Fiber/Gin)  
+- PostgreSQL (via GORM or pgx)
+
+**State Management (Flutter):**  
+- BLoC  
+- Riverpod  
+- Provider  
+
+**Dev Tools & Platforms:**  
+- Firebase (Auth, Firestore, FCM)  
+- Git & GitHub  
+- RESTful APIs  
+- SharedPreferences / Hive  
+
+**Testing:**  
+- Unit & Widget Testing  
+- Mocktail, Mockito
+
+**Soft Skills:**  
+- Problem Solving & Debugging  
+- Architecture Design  
+- Technical Writing  
+- Collaboration & Communication
+
+---
+
+## 🔗 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/steveabdulmexa/) – Let’s network  
+- [Twitter/X](https://x.com/BigSteveAbdulmx) – Dev logs, Flutter/Golang thoughts, and my build-in-public journey  
+- [Email](mailto:steveabdulmexa@gmail.com) – I’m open to collabs, consulting, or just tech talk
+
+---
+
+## 🚀 Let's Build Something Real
+
+If you're looking for someone who codes with intention and ships with clarity—I'm your guy.  
+I specialize in building mobile apps that are fast, functional, and impossible to ignore.
+
+**No fluff. Just clean apps that do what they say.**
