@@ -1,4 +1,4 @@
-# Hey, I’m Steve Abdulmex 👋
+# Hey, I’m Stephen Abdulmex 👋
 
 I’m a Software Engineer hooked on building mobile apps with **Flutter** and solid backends with **Go**. I love creating apps that feel great to use and systems that work.
 
