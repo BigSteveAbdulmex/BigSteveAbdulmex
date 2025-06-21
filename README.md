@@ -1,7 +1,7 @@
 
 # Hey, I’m Steve Abdulmex 👋
 
-\<p\>\<em\>Full-Stack Software Engineer | Flutter & Golang | Crafting Impactful Mobile Solutions\</em\>\</p\>
+<p><em> Full-Stack Software Engineer | Flutter & Golang | Crafting Impactful Mobile Solutions </em></p>
 
 -----
 
