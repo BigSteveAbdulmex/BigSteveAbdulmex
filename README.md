@@ -3,7 +3,7 @@
 I’m a Full-Stack Software Engineer who loves building mobile apps with Flutter and solid backends with Golang. My goal is to create apps that work smoothly and solve real problems for users.
 
 ## About Me
-I enjoy turning ideas into working apps, from designing the user interface to setting up the backend that keeps everything running. Whether it’s tweaking an app’s layout to feel just right or making sure the server can handle a ton of users, I’m all about getting the details right. I take pride in writing code that’s easy to understand, testing thoroughly, and leaving clear notes for anyone who picks up my work.
+I enjoy turning ideas into working apps, from building the user interface to setting up the backend that keeps everything running. Whether it’s tweaking an app’s layout to feel just right or making sure the server can handle a ton of users, I’m all about getting the details right. I take pride in writing code that’s easy to understand, testing thoroughly, and leaving clear notes for anyone who picks up my work.
 
 I’m big on:
 - Writing clean, organized code that’s easy to maintain.
@@ -44,7 +44,7 @@ I’m big on:
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/steve-abdulmex) – Let’s connect professionally
 - [X](https://x.com/BigSteveAbdulmx) – Follow me for dev tips and random thoughts on Flutter and Go
-- Email – Drop me a line if you want to chat about projects, collabs, or just tech
+- [Email](mailto:steveabdulmexa@gmail.com) – Drop me a line if you want to chat about projects, collabs, or just tech
 
 ## My Approach
 I build apps that are fast, reliable, and built to last. I focus on making things that users love and that I’m proud to put my name on. If you’re looking for someone to bring your app idea to life or help scale a backend, I’m your guy. Let’s make something awesome together!
