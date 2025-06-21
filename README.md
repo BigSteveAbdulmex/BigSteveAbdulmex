@@ -1,9 +1,9 @@
 # Hey, I’m Steve Abdulmex 👋
 
-I’m a Software Engineer who loves building mobile apps with Flutter and backends with Go. I focus on creating apps that users enjoy and systems that run smoothly.
+I’m a Software Engineer hooked on building mobile apps with **Flutter** and solid backends with **Go**. I love creating apps that feel great to use and systems that work.
 
 ## About Me
-I enjoy coding apps from scratch, squashing bugs, and keeping things fast. I write clean code, test thoroughly, and leave clear notes for others (or future me). I’m all about learning new tech and connecting with devs.
+I’m all about coding apps from the ground up, crushing bugs, and making things run fast. I keep my code clean, test it thoroughly, and leave clear notes for others (or future me). Building apps that click with users is my jam. 😎
 
 ## What I Work With
 - **Languages**: Dart, Go
@@ -14,4 +14,6 @@ I enjoy coding apps from scratch, squashing bugs, and keeping things fast. I wri
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/steve-abdulmex)
 - [X](https://x.com/BigSteveAbdulmx)
-- [Email](mailto:steveabdulmexa@gmail.com): DM me on X for collabs or chats!
+- [Email](mailto:steveabdulmexa@gmail.com)
+
+Let’s team up and build something users will love. Hit me up!
