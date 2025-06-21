@@ -1,26 +1,20 @@
-Hey, I’m Steve Abdulmex 👋
+# Hey, I’m Steve Abdulmex 👋
 
-I'm a **Full-Stack Software Engineer** specializing in **mobile app development with Flutter** and **scalable back-end systems with Golang**. I'm driven by a passion for creating seamless, problem-solving applications from concept to deployment.
+I’m a Software Engineer who loves building mobile apps with Flutter and backends with Go. My goal is to create apps that users enjoy and systems that run smoothly.
 
----
+## What I Do
+- **Languages**: Dart, Go
+- **Mobile**: Flutter for Android/iOS, custom UI, BLoC, Riverpod, Provider
+- **Backend**: Go APIs (Fiber, Gin), PostgreSQL, Docker
+- **Tools**: Firebase, Git, REST APIs, unit & widget testing
 
-### Skills at a Glance
+## About Me
+I enjoy coding apps from scratch, fixing bugs, and making sure everything works fast. I write clean code, test thoroughly, and leave clear notes for others (or future me). I’m all about learning new tech and connecting with devs.
 
-**Languages:** Dart, Go
-**Mobile:** Flutter, Android, iOS, BLoC, Riverpod, Provider
-**Backend:** Fiber, Gin, PostgreSQL, GORM, pgx, Docker, REST APIs
-**Tools & Practices:** Firebase, Git, GitHub, Unit Testing, Widget Testing
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/steve-abdulmex)
+- [X](https://x.com/BigSteveAbdulmx)
+- Email: DM me on X for collabs or chats!
 
----
-
-### My Philosophy
-
-I believe in building applications that are not only fast and reliable but also intuitive and enjoyable for users. I'm committed to delivering well-architected solutions and thrive on turning complex ideas into tangible products.
-
----
-
-### Get In Touch
-
-* **LinkedIn**: [Your LinkedIn Profile URL]
-* **X (formerly Twitter)**: [Your X Profile URL]
-* **Email**: [Your Email Address]
+## My Approach
+I build apps and backends that are reliable and fun to use. If you need an app brought to life or a solid backend, I’m your guy. Let’s code something cool!
