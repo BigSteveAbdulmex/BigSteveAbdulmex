@@ -1,8 +1,3 @@
-You've got a fantastic starting point for your GitHub profile README, Steve\! It's clear, passionate, and highlights key skills. To fine-tune it for a professional, job-ready audience, we'll sharpen the language, emphasize outcomes, and ensure it projects confidence as a proficient Software Engineer.
-
-Here's an optimized and edited version of your GitHub profile README:
-
------
 
 # Hey, I’m Steve Abdulmex 👋
 
